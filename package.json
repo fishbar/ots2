@@ -14,7 +14,7 @@
   "dependencies": {
     "debug": "^2.2.0",
     "httpx": "^2.0.0",
-    "protobufjs": "~4.0.0"
+    "protobufjs": "~6.0.0"
   },
   "devDependencies": {
     "istanbul": "^0.3.17",
